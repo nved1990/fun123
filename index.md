@@ -1,8 +1,4 @@
-<!DOCTYPE html>
 <html>
-  <head>
-    <title>Hello World!</title>
-  </head>
   <body>
     <h1>My Second Webpage</h1>
     <p>Welcome to my second webpage!</p>
